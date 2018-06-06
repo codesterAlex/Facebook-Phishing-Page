@@ -1,0 +1,2 @@
+hey can you please send me a .sql. 
+Even after running in apache it's showing error
